@@ -1,0 +1,11 @@
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\bin\Debug\net8.0\IndiceDeMasaCorporal.CalculadoraImc.deps.json
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\bin\Debug\net8.0\IndiceDeMasaCorporal.CalculadoraImc.dll
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\bin\Debug\net8.0\IndiceDeMasaCorporal.CalculadoraImc.pdb
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadoraImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadoraImc.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadoraImc.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadoraImc.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadoraImc.dll
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\obj\Debug\net8.0\refint\IndiceDeMasaCorporal.CalculadoraImc.dll
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\obj\Debug\net8.0\IndiceDeMasaCorporal.CalculadoraImc.pdb
+C:\Users\rodri\source\repos\Poo\IndiceDeMasaCorporal\IndiceDeMasaCorporal.CalculadoraImc\obj\Debug\net8.0\ref\IndiceDeMasaCorporal.CalculadoraImc.dll
